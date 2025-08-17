@@ -7,21 +7,8 @@
 ---
 
 ### 🛠️ Мои скилы
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Fullstack-Python%20%7C%20Django%20%7C%20React%20%7C%20HTML%2FCSS-blue?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Telegram%20Bots-Python%20%7C%20Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Discord%20Bots-Typescript%20%7C%20discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Minecraft%20Plugins-Java-47A248?style=for-the-badge&logo=java&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,ts,java,nodejs" />
 </p>
 
 
