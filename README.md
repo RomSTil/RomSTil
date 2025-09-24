@@ -8,7 +8,7 @@
 
 ### 🛠️ Мои скилы
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,ts,java,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,ts,java,nodejs" />
 </p>
 
 
