@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Fullstack-Python%20%7C%20Django%20%7C%20React-blue?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fullstack-Python%20%7C%20Django%20%7C%20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Telegram%2FDiscord-Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Minecraft-Plugins-orange?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
